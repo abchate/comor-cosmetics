@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "641963698979",
+    "project_id": "comor-cosmetics",
+    "storage_bucket": "comor-cosmetics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641963698979:android:7139caea31e16621593a96",
+        "android_client_info": {
+          "package_name": "com.company.cosmetics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641963698979-78ld6h3o5b3c31vmn5onh3r5u92q5gpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJvFwNujxFWhuXn05z5GFI5MoF-utx5tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641963698979-78ld6h3o5b3c31vmn5onh3r5u92q5gpf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "641963698979-fmfrthqvaug4h8m7s8qjv43rpakbkjvo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ciom.company.cosmetics"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
